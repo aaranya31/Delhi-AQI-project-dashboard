@@ -43,4 +43,22 @@ The dataset contains Delhi Air Quality Index observations used for analysis and 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+### Overview
+
+![Overview](overview.png)
+
+### Health Impact
+
+![Health Impact](health_impact.png)
+
+### Policy Before vs After
+
+![Policy](policy_before_after.png)
+
+### Temperature & Seasonality
+
+![Temperature](temperature_seasonality.png)
+
+### What-if Scenario
+
+![What If](what_if_scenario.png)
