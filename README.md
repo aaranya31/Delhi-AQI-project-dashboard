@@ -43,5 +43,4 @@ The dataset contains Delhi Air Quality Index observations used for analysis and 
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here after uploading it.)
-
+![Dashboard](dashboard.png)
