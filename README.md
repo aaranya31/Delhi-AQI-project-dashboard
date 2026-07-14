@@ -53,11 +53,11 @@ The dataset contains Delhi Air Quality Index observations used for analysis and 
 
 ### Policy Before vs After
 
-![Policy](PolicyBefore-After.png)
+![Policy](PolicyBeforeAfter.png)
 
 ### Temperature & Seasonality
 
-![Temperature](RemperatureandSeasonality.png)
+![Temperature](TemperatureandSeasonality.png)
 
 ### What-if Scenario
 
