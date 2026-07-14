@@ -61,5 +61,5 @@ The dataset contains Delhi Air Quality Index observations used for analysis and 
 
 ### What-if Scenario
 
-![What If](What-ifScenario.png)
+![What If](WhatIf.png)
 
